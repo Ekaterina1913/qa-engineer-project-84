@@ -36,7 +36,6 @@ bugreports:
   status: pass
     
 bugreports: []
-
 ---
 - summary: |
     Пользователь должен иметь возможность добавлять товары в корзину
